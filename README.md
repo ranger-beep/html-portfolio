@@ -1,3 +1,21 @@
-# html-portfolio
+# HTML Portfolio Project
 
-This is a simple personal portfolio project built using only basic HTML, as part of a bootcamp course.
+## Description
+
+The goal of this project is to practice foundational HTML skills, including:
+
+- Headings (<h1> to <h6>)
+- Paragraphs and text formatting (<p>, <strong>, <em>)
+- Images (<img>)
+- Links (<a>)
+- Lists (<ul>, <ol>, <li>)
+- Tables (<table>, <tr>, <td>, <th>)
+- Basic forms (<form>, <input>, <textarea>, <button>)
+- No CSS or JavaScript is used—just pure HTML structure.
+
+## Features
+
+- Homepage with basic personal info
+- "About Me" section
+- Contact page with a simple form
+- Navigation between pages using <a> tags
